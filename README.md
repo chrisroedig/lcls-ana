@@ -8,7 +8,7 @@ The intention is to drop these files, including the compile script, into a direc
 
 The code has not been recently tested using actual XTC data. The code builds without errors, but it should be test run on some smaple data.
 
-## How to use
+## How to use:
 
 * place these files in the same dir as `myana.cc`
 * you will be replacing `comp` (compiler script) so rename the old one first
@@ -55,7 +55,7 @@ The code has not been recently tested using actual XTC data. The code builds wit
  * includes CFD, time-to-energy, and various averagers
  
 
-* 'rootDump.cc'
+* `rootDump.cc`
  * usefull helpers for dumping data from ROOT objects as ascii files
  
 
